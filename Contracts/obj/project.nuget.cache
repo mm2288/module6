@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8EcrXBefBSb097p6En5+yeATrpE4ImdnvwmtyAwSVeTawjg0e+02NKCGiKGrhRz1UnyM3MZaZfMZeIL8YZXBZA==",
+  "success": true,
+  "projectFilePath": "/Users/meganmachado/Projects/SchoolAPI/Contracts/Contracts.csproj",
+  "expectedPackageFiles": [
+    "/Users/meganmachado/.nuget/packages/nlog/4.7.9/nlog.4.7.9.nupkg.sha512"
+  ],
+  "logs": []
+}

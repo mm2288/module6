@@ -1,0 +1,73 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.4" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.4">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="NLog" Version="4.7.9" />
+  </ItemGroup>
+
+<<<<<<< HEAD
+
+  <ItemGroup>
+    <Folder Include="Extensions\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="Contracts\Contracts.csproj">
+      <GlobalPropertiesToRemove></GlobalPropertiesToRemove>
+    </ProjectReference>
+    <ProjectReference Include="LoggerService\LoggerService.csproj">
+=======
+  <ItemGroup>
+    <ProjectReference Include="..\Contracts\Contracts.csproj" />
+    <ProjectReference Include="..\Entities\Entities.csproj" />
+    <ProjectReference Include="..\LoggerManager\LoggerService.csproj" />
+    <ProjectReference Include="..\Repository\Repository.csproj" />
+    <ProjectReference Include="SchoolAPI.csproj">
+>>>>>>> Added database (and fixed issues)
+      <GlobalPropertiesToRemove></GlobalPropertiesToRemove>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+<<<<<<< HEAD
+    <None Remove="LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csprojAssemblyReference.cache" />
+    <None Remove="LoggerService\obj\Debug\netcoreapp3.1\LoggerService.assets.cache" />
+    <None Remove="LoggerService\obj\Debug\netcoreapp3.1\LoggerService.AssemblyInfoInputs.cache" />
+    <None Remove="LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csproj.CoreCompileInputs.cache" />
+    <None Remove="LoggerService\obj\Debug\netcoreapp3.1\LoggerService.dll" />
+    <None Remove="LoggerService\obj\Debug\netcoreapp3.1\LoggerService.pdb" />
+    <None Remove="LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csproj.CopyComplete" />
+    <None Remove="LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csproj.FileListAbsolute.txt" />
+  </ItemGroup>
+</Project>
+=======
+    <Compile Remove="Entities\RepositoryContext.cs" />
+    <Compile Remove="Entities\Configuration\UserConfiguration.cs" />
+    <Compile Remove="Entities\Configuration\OrganizationConfiguration.cs" />
+    <Compile Remove="Entities\Models\Organization.cs" />
+    <Compile Remove="Entities\Models\User.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="Entities\obj\Entities.csproj.nuget.g.targets" />
+    <None Remove="Entities\obj\Entities.csproj.nuget.g.props" />
+    <None Remove="Entities\obj\project.nuget.cache" />
+    <None Remove="Entities\obj\Debug\netcoreapp3.1\Entities.assets.cache" />
+    <None Remove="Entities\obj\Debug\netcoreapp3.1\Entities.csprojAssemblyReference.cache" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Remove="Entities\obj\Entities.csproj.nuget.dgspec.json" />
+    <Content Remove="Entities\obj\project.assets.json" />
+    <Content Remove="Repository\obj\project.assets.json" />
+    <Content Remove="Repository\obj\project.assets.json" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="SchoolAPI.csproj" />
+    <None Include="SchoolAPI.sln" />
+  </ItemGroup>
+</Project>
+>>>>>>> Added database (and fixed issues)

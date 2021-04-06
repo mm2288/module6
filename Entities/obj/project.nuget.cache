@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "s26xCjIMvjV06PCEyb+0e8j1oczhzCOODQm9m7UNWoqmTLj6fZKLjUstQnZ6h84nU+ByJMcMLVNfp4htfJB0xA==",
+  "success": true,
+  "projectFilePath": "/Users/meganmachado/Projects/SchoolAPI/Entities/Entities.csproj",
+  "expectedPackageFiles": [
+    "/Users/meganmachado/.nuget/packages/nlog/4.7.9/nlog.4.7.9.nupkg.sha512"
+  ],
+  "logs": []
+}

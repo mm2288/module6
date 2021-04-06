@@ -1,0 +1,4 @@
+/Users/meganmachado/Projects/SchoolAPI/LoggerService/obj/Debug/netcoreapp3.1/LoggerService.csprojAssemblyReference.cache
+/Users/meganmachado/Projects/SchoolAPI/LoggerService/obj/Debug/netcoreapp3.1/LoggerService.AssemblyInfoInputs.cache
+/Users/meganmachado/Projects/SchoolAPI/LoggerService/obj/Debug/netcoreapp3.1/LoggerService.AssemblyInfo.cs
+/Users/meganmachado/Projects/SchoolAPI/LoggerService/obj/Debug/netcoreapp3.1/LoggerService.csproj.CoreCompileInputs.cache

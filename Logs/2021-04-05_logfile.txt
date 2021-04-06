@@ -1,0 +1,12 @@
+2021-04-05 12:59:42.9992 INFO Info message from our controller.
+2021-04-05 12:59:43.0399 DEBUG Debug message from our controller.
+2021-04-05 12:59:43.0426 WARN Warn message from our controller.
+2021-04-05 12:59:43.0437 ERROR Error message from our controller.
+2021-04-05 12:59:44.7278 INFO Info message from our controller.
+2021-04-05 12:59:44.7306 DEBUG Debug message from our controller.
+2021-04-05 12:59:44.7311 WARN Warn message from our controller.
+2021-04-05 12:59:44.7324 ERROR Error message from our controller.
+2021-04-05 13:00:08.8225 INFO Info message from our controller.
+2021-04-05 13:00:08.8245 DEBUG Debug message from our controller.
+2021-04-05 13:00:08.8245 WARN Warn message from our controller.
+2021-04-05 13:00:08.8245 ERROR Error message from our controller.

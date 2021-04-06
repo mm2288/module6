@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xwROh5abAQQEy4XtFOowrznYUHw7o2RtogKKe6zhL9GLTMXkUYTgR2OkSvMPKiV3GmqLU0iN/dQTkTQkrJcrzA==",
+  "success": true,
+  "projectFilePath": "/Users/meganmachado/Projects/SchoolAPI/LoggerService/LoggerService.csproj",
+  "expectedPackageFiles": [
+    "/Users/meganmachado/.nuget/packages/nlog/4.7.9/nlog.4.7.9.nupkg.sha512"
+  ],
+  "logs": []
+}

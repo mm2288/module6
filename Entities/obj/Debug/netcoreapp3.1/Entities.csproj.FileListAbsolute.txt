@@ -1,0 +1,4 @@
+/Users/meganmachado/Projects/SchoolAPI/Entities/obj/Debug/netcoreapp3.1/Entities.csprojAssemblyReference.cache
+/Users/meganmachado/Projects/SchoolAPI/Entities/obj/Debug/netcoreapp3.1/Entities.AssemblyInfoInputs.cache
+/Users/meganmachado/Projects/SchoolAPI/Entities/obj/Debug/netcoreapp3.1/Entities.AssemblyInfo.cs
+/Users/meganmachado/Projects/SchoolAPI/Entities/obj/Debug/netcoreapp3.1/Entities.csproj.CoreCompileInputs.cache

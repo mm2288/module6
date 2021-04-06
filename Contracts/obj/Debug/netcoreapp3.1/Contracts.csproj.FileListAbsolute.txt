@@ -1,0 +1,4 @@
+/Users/meganmachado/Projects/SchoolAPI/Contracts/obj/Debug/netcoreapp3.1/Contracts.csprojAssemblyReference.cache
+/Users/meganmachado/Projects/SchoolAPI/Contracts/obj/Debug/netcoreapp3.1/Contracts.AssemblyInfoInputs.cache
+/Users/meganmachado/Projects/SchoolAPI/Contracts/obj/Debug/netcoreapp3.1/Contracts.AssemblyInfo.cs
+/Users/meganmachado/Projects/SchoolAPI/Contracts/obj/Debug/netcoreapp3.1/Contracts.csproj.CoreCompileInputs.cache

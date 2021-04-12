@@ -1,0 +1,17 @@
+/Users/meganmachado/Projects/SchoolAPI2/LoggerManager/bin/Debug/netcoreapp3.1/LoggerManager.deps.json
+/Users/meganmachado/Projects/SchoolAPI2/LoggerManager/bin/Debug/netcoreapp3.1/LoggerManager.runtimeconfig.json
+/Users/meganmachado/Projects/SchoolAPI2/LoggerManager/bin/Debug/netcoreapp3.1/LoggerManager.runtimeconfig.dev.json
+/Users/meganmachado/Projects/SchoolAPI2/LoggerManager/bin/Debug/netcoreapp3.1/LoggerManager.dll
+/Users/meganmachado/Projects/SchoolAPI2/LoggerManager/bin/Debug/netcoreapp3.1/LoggerManager.pdb
+/Users/meganmachado/Projects/SchoolAPI2/LoggerManager/bin/Debug/netcoreapp3.1/Contracts.dll
+/Users/meganmachado/Projects/SchoolAPI2/LoggerManager/bin/Debug/netcoreapp3.1/Entities.dll
+/Users/meganmachado/Projects/SchoolAPI2/LoggerManager/bin/Debug/netcoreapp3.1/Contracts.pdb
+/Users/meganmachado/Projects/SchoolAPI2/LoggerManager/bin/Debug/netcoreapp3.1/Entities.pdb
+/Users/meganmachado/Projects/SchoolAPI2/LoggerManager/obj/Debug/netcoreapp3.1/LoggerManager.csprojAssemblyReference.cache
+/Users/meganmachado/Projects/SchoolAPI2/LoggerManager/obj/Debug/netcoreapp3.1/LoggerManager.AssemblyInfoInputs.cache
+/Users/meganmachado/Projects/SchoolAPI2/LoggerManager/obj/Debug/netcoreapp3.1/LoggerManager.AssemblyInfo.cs
+/Users/meganmachado/Projects/SchoolAPI2/LoggerManager/obj/Debug/netcoreapp3.1/LoggerManager.csproj.CoreCompileInputs.cache
+/Users/meganmachado/Projects/SchoolAPI2/LoggerManager/obj/Debug/netcoreapp3.1/LoggerManager.csproj.CopyComplete
+/Users/meganmachado/Projects/SchoolAPI2/LoggerManager/obj/Debug/netcoreapp3.1/LoggerManager.dll
+/Users/meganmachado/Projects/SchoolAPI2/LoggerManager/obj/Debug/netcoreapp3.1/LoggerManager.pdb
+/Users/meganmachado/Projects/SchoolAPI2/LoggerManager/obj/Debug/netcoreapp3.1/LoggerManager.genruntimeconfig.cache

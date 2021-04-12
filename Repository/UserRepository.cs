@@ -1,4 +1,7 @@
-﻿using System;
+﻿using Contracts;
+using Entities;
+using Entities.Models;
+
 namespace Repository
 {
     public class UserRepository : RepositoryBase<User>, IUserRepository
@@ -6,7 +9,6 @@ namespace Repository
         public UserRepository(RepositoryContext repositoryContext)
             : base(repositoryContext)
         {
-
         }
     }
 }

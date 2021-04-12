@@ -4,20 +4,20 @@
     "windowsAuthentication": false,
     "anonymousAuthentication": true,
     "iisExpress": {
-      "applicationUrl": "http://localhost:13767",
-      "sslPort": 44318
+      "applicationUrl": "http://localhost:36926",
+      "sslPort": 44346
     }
   },
   "profiles": {
     "IIS Express": {
       "commandName": "IISExpress",
-      "launchBrowser": false,
+      "launchBrowser": true,
       "launchUrl": "weatherforecast",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "SchoolAPI": {
+    "SchoolAPI2": {
       "commandName": "Project",
       "launchBrowser": true,
       "launchUrl": "weatherforecast",

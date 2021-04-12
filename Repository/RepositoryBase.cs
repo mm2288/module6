@@ -1,4 +1,12 @@
-﻿using System;
+﻿using Contracts;
+using Entities;
+using Microsoft.EntityFrameworkCore;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Linq.Expressions;
+using System.Text;
+
 namespace Repository
 {
     public class RepositoryBase<T> : IRepositoryBase<T> where T : class

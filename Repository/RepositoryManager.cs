@@ -1,4 +1,6 @@
-﻿using System;
+﻿using Contracts;
+using Entities;
+
 namespace Repository
 {
     public class RepositoryManager : IRepositoryManager

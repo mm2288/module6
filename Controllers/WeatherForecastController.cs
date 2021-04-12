@@ -2,11 +2,11 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Contracts;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using Contracts;
 
-namespace SchoolAPI.Controllers
+namespace SchoolAPI2.Controllers
 {
     [ApiController]
     [Route("[controller]")]
